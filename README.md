@@ -1,5 +1,7 @@
 <div align="center"><h1>Migration of Terraform State file from Azure Storage Account to Terraform Cloud workspace</h1></div>
 
+![Migration of Terraform State file from Azure Storage Account to Terraform Cloud workspace](https://res.cloudinary.com/practicaldev/image/fetch/s--yWxqfVD9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wweusu75ftemye3xet6w.png)
+
 ## What is Terraform State file?
 
 Terraform stores information about your infrastructure in a State file. This state file keeps track of resources created by your configuration and maps them to real-world resources.
